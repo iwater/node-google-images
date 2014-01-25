@@ -2,6 +2,8 @@
 
 This module for Node.js helps searching images using Google Images. It provides just one method, *search*, don't you need just that?
 
+Uses deprecated [Google Image Search API](https://developers.google.com/image-search/)
+
 # Installation
 Install from NPM:
 
