@@ -1,7 +1,12 @@
 {
     "name": "google-images"
-  , "version": "0.1.0"
+  , "version": "0.1.1"
   , "description": "Search images using Google Images"
+  , "homepage": "https://github.com/vdemedes/node-google-images"
+  , "repository": {
+      "type": "git"
+    , "url": "https://github.com/vdemedes/node-google-images.git"
+  }
   , "keywords": ["google", "images", "google images", "image search"]
   , "author": "Vadim Demedes <sbioko@gmail.com>"
   , "dependencies": { "request": "*" }
